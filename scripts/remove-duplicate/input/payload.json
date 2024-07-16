@@ -1,0 +1,22 @@
+{
+  "Input": [
+    {
+      "uri": "loc1",
+      "name": "loc1"
+    },
+    {
+      "uri": "loc2",
+      "name": "loc2"
+    }
+  ],
+  "Output": [
+    {
+      "uri": "loc1",
+      "name": "loc1"
+    },
+    {
+      "uri": "loc3",
+      "name": "loc3"
+    }
+  ]
+}
